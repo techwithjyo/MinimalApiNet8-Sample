@@ -1,0 +1,6 @@
+@MinimalApiNet8_HostAddress = http://localhost:5142
+
+GET {{MinimalApiNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
